@@ -1,0 +1,23 @@
+{
+  "name": "jetstream-reactify",
+  "version": "0.1.0",
+  "description": "Remove and replace Vue with React (JSX) in Laravel Jetstream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higherordermalfunction/jetstream-reactify.git"
+  },
+  "keywords": [
+    "Laravel Jetstream",
+    "Jetstream React"
+  ],
+  "author": "Richard H.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higherordermalfunction/jetstream-reactify/issues"
+  },
+  "homepage": "https://github.com/higherordermalfunction/jetstream-reactify#readme"
+}
