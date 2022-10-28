@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/higherordermalfunction/jetstream-reactify/issues"
   },
-  "homepage": "https://github.com/higherordermalfunction/jetstream-reactify#readme"
+  "homepage": "https://github.com/higherordermalfunction/jetstream-reactify#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prompt-sync": "^4.2.0"
+  }
 }
